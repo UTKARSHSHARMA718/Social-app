@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017780274319",
+    "project_id": "social-app-tester-fedb7",
+    "storage_bucket": "social-app-tester-fedb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017780274319:android:63a5ad82c199bc0a289cfa",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017780274319-fem4e8jcmsk6jgdejt1tjlt1ta7d3o1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MSN9_eIml3qlDyt6X5EZCJg2-JJLAOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017780274319-fem4e8jcmsk6jgdejt1tjlt1ta7d3o1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
